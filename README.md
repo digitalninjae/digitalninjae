@@ -26,4 +26,3 @@ Rust and the Bevy game engine, for fun.
 ### Reach me
 
 - LinkedIn — [linkedin.com/in/bcupples](https://www.linkedin.com/in/bcupples)
-- Email — bc@cupplescreative.com
